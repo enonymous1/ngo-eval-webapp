@@ -1,0 +1,271 @@
+{
+  "globalAdvice": {
+    "dates": "Dates are Sacred: Evaluators calculate months literally. '2018-2019' might be counted as 2 months. Ensure MM/YYYY format matches the Years Requirement.",
+    "regional": "Regional (10%): If no direct regional experience, look for experience in a similar context or a comparable program setting. Local language skills are a plus.",
+    "bolding": "Tip: Look for BOLD keywords in the Employment Record section."
+  },
+  "roles": [
+    {
+      "id": "K-1",
+      "title": "Project Manager",
+      "count": 1,
+      "maxPoints": 10,
+      "baseDuration": "Phase I & II (18 Months)",
+      "sidebarMeta": "(Phase I & II) 18 Mo",
+      "breakdown": {
+        "gen": 2,
+        "adeq": 7,
+        "reg": 1
+      },
+      "reqs": {
+        "gen": "Master's + PMP/Prince2",
+        "adeq": "8+ yrs exp, Systems Analysis, Contract Mgmt",
+        "reg": "Relevant regional experience"
+      },
+      "guide": {
+        "edu": "Master’s in MIS, Business & IT, CS, or IT Mgmt. (Pass/Fail).",
+        "cert": "PMP, Prince2, or equivalent. (High Impact).",
+        "exp": "8+ Years progressive experience. Dates must show full 8 years.",
+        "keywords": [
+          "Led system scoping",
+          "Managed UAT",
+          "BPMN",
+          "Visio",
+          "UML",
+          "Managed contract value of $X"
+        ]
+      },
+      "torData": [
+        "Masters' degree in MIS, Business & IT, CS, or IT Management.",
+        "Project Management certification e.g. PMP, Prince2.",
+        "8+ years progressive exp: systems analysis, scoping, design, testing, Software PM.",
+        "Proven experience in business process modelling and contract management."
+      ]
+    },
+    {
+      "id": "K-2",
+      "title": "Program Process Optimization Expert",
+      "count": 2,
+      "maxPoints": 6,
+      "breakdown": {
+        "gen": 1.2,
+        "adeq": 4.2,
+        "reg": 0.6
+      },
+      "reqs": {
+        "gen": "Master's + professional certification",
+        "adeq": "7+ yrs, process improvement, program design",
+        "reg": "Regional program authority or similar"
+      },
+      "guide": {
+        "edu": "Master’s in Accounting, Finance, Economics, or a related field from a recognized university.",
+        "cert": "Professional certification in accounting, finance, or process improvement.",
+        "exp": "7+ Years in public sector, nonprofit, or program delivery (not only private-sector finance).",
+        "keywords": [
+          "Process modernization",
+          "Digital service rollout",
+          "International standards",
+          "Program assessment frameworks",
+          "Service standards",
+          "Registration",
+          "Filing",
+          "Audit"
+        ]
+      },
+      "torData": [
+        "Master's in Accounting, Finance, Public Administration, Economics, or a related field from a recognized university.",
+        "Proven expertise in process modernization initiatives.",
+        "7+ years in program reform, business process design, or digital transformation.",
+        "Familiarity with international program standards and assessment frameworks.",
+        "Hands-on with process tools, workflow engines, and API-based solutions."
+      ]
+    },
+    {
+      "id": "K-3",
+      "title": "Business Analyst",
+      "count": 3,
+      "maxPoints": 6,
+      "baseDuration": "Phase I Only (6 Months)",
+      "sidebarMeta": "(Phase I) 6 Mo",
+      "breakdown": {
+        "gen": 1.2,
+        "adeq": 4.2,
+        "reg": 0.6
+      },
+      "reqs": {
+        "gen": "Degree in Business/IT + CBAP",
+        "adeq": "5+ yrs Public Sector/FinTech, BRDs",
+        "reg": "Regional public / nonprofit sector"
+      },
+      "guide": {
+        "edu": "Bachelor’s or Master’s (Master’s scores higher in Gen Quals).",
+        "cert": "Professional Cert in Business Analysis (CBAP, PMI-PBA).",
+        "exp": "5+ Years as BA in Public Sector or Financial Systems.",
+        "keywords": [
+          "Business Requirement Docs (BRDs)",
+          "Test Cases",
+          "User Manuals",
+          "Stakeholder Training",
+          "Change Management Support"
+        ]
+      },
+      "torData": [
+        "Bachelor's or Master's in Business Mgmt, Project Mgmt, Finance, CS/IT.",
+        "Professional certification in Business Analysis (e.g. CBAP).",
+        "5+ years as BA, ideally in public sector or financial or program systems.",
+        "Preparing BRDs, test cases, and user manuals.",
+        "Participated in training and change management processes."
+      ]
+    },
+    {
+      "id": "K-4",
+      "title": "Solutions Architect",
+      "count": 1,
+      "maxPoints": 5,
+      "baseDuration": "Phase I Only (6 Months)",
+      "sidebarMeta": "(Phase I) 6 Mo",
+      "breakdown": {
+        "gen": 1,
+        "adeq": 3.5,
+        "reg": 0.5
+      },
+      "reqs": {
+        "gen": "CS/IT Degree + TOGAF",
+        "adeq": "7+ yrs IT, 4+ yrs Ent Arch",
+        "reg": "Relevant Regional"
+      },
+      "guide": {
+        "edu": "Bachelor’s or Master’s in CS/IT (Mandatory).",
+        "cert": "Enterprise Architecture Frameworks (TOGAF, Zachman).",
+        "exp": "7+ Years IT total. 4+ Years specifically as Enterprise Architect/Tech Lead.",
+        "keywords": [
+          "Enterprise Architect",
+          "High-volume",
+          "Transaction systems",
+          "Customization",
+          "TOGAF"
+        ]
+      },
+      "torData": [
+        "Bachelor's or Master's in CS/IT or related field.",
+        "Training/Certification in Enterprise Architecture (e.g. TOGAF).",
+        "7+ years in IT field.",
+        "4+ years as Enterprise Architect designing/implementing software solutions."
+      ]
+    },
+    {
+      "id": "K-5",
+      "title": "Technology Lead",
+      "count": 1,
+      "maxPoints": 5,
+      "baseDuration": "Phase I & II (18 Months)",
+      "sidebarMeta": "(Phase I & II) 18 Mo",
+      "breakdown": {
+        "gen": 1,
+        "adeq": 3.5,
+        "reg": 0.5
+      },
+      "reqs": {
+        "gen": "Bachelor's IT/SE",
+        "adeq": "6+ yrs IT, 5+ yrs Leadership, Auto-scaling",
+        "reg": "Relevant Regional"
+      },
+      "guide": {
+        "edu": "Bachelor’s in IT, SE, or CS (Mandatory).",
+        "cert": "None specified, but leadership experience is key.",
+        "exp": "6+ Years IT. 5+ Years developing Ent Software. 5+ Years LEADERSHIP (Must say 'Team Lead', 'Manager').",
+        "keywords": [
+          "Team Lead",
+          "Head of Engineering",
+          "Auto-scaling",
+          "High-throughput",
+          "UI/UX",
+          "Microservices"
+        ]
+      },
+      "torData": [
+        "Bachelor's in IT, Software Engineering, or CS.",
+        "6+ years in IT field.",
+        "5+ years developing enterprise software.",
+        "5+ years in a leadership role managing technical teams (Critical).",
+        "Experience with auto-scaling and high transaction throughput systems."
+      ]
+    },
+    {
+      "id": "K-6",
+      "title": "Information Security Expert",
+      "count": 1,
+      "maxPoints": 5,
+      "baseDuration": "Phase I Only (6 Months)",
+      "sidebarMeta": "(Phase I) 6 Mo",
+      "breakdown": {
+        "gen": 1,
+        "adeq": 3.5,
+        "reg": 0.5
+      },
+      "reqs": {
+        "gen": "CS/IT Degree + CISSP/CISM",
+        "adeq": "5+ yrs IT, 3+ yrs Security Ops",
+        "reg": "Relevant Regional"
+      },
+      "guide": {
+        "edu": "Bachelor’s in CS/IT (Mandatory).",
+        "cert": "Cyber/Info Security (CISSP, CISM, CISA).",
+        "exp": "5+ Years IT Design/Security. 3+ Years Specific Security Assessment/Ops.",
+        "keywords": [
+          "Security Assessment",
+          "Penetration Testing",
+          "ISO 27001",
+          "Security Operations",
+          "CISM",
+          "CISSP"
+        ]
+      },
+      "torData": [
+        "Bachelor's in CS/IT or related field.",
+        "Professional certification in Cyber Security (CISSP, CISM).",
+        "5+ years in IT design, dev, security.",
+        "3+ years specific experience in security assessment planning, testing or operations."
+      ]
+    },
+    {
+      "id": "K-7",
+      "title": "Data Engineer",
+      "count": 1,
+      "maxPoints": 5,
+      "baseDuration": "Phase I Only (6 Months)",
+      "sidebarMeta": "(Phase I) 6 Mo",
+      "breakdown": {
+        "gen": 1,
+        "adeq": 3.5,
+        "reg": 0.5
+      },
+      "reqs": {
+        "gen": "CS/IT Degree",
+        "adeq": "5+ yrs Data/BI, Dimensional Modeling",
+        "reg": "Relevant Regional"
+      },
+      "guide": {
+        "edu": "Bachelor’s in CS, IT, SE (Mandatory).",
+        "cert": "Not specified.",
+        "exp": "5+ Years Data Eng/BI. 3+ Years Dimensional Data Modeling (Must appear explicitly).",
+        "keywords": [
+          "Dimensional Modeling",
+          "Data Lakehouse",
+          "Spark",
+          "Hadoop",
+          "Real-time streaming",
+          "Tableau",
+          "PowerBI"
+        ]
+      },
+      "torData": [
+        "Bachelor's in CS, IT, Software Engineering.",
+        "5+ years in Data Eng, BI & Software Dev.",
+        "3+ years specific experience with Dimensional data modeling.",
+        "Proven experience in analytical, visualization (PowerBI/Tableau), and data streaming tools."
+      ]
+    }
+  ],
+  "projectName": "Sample NGO Program Evaluation"
+}

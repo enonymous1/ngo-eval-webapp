@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "html2pdf.js": "0.10.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "description": "Evaluator scoring tool for key experts: role-based scorecards, local auto-save, and PDF/JSON/CSV export.",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.1",
+    "@vitejs/plugin-react": "^5.1.2",
+    "jsdom": "^27.4.0",
+    "tailwindcss": "^4.1.17",
+    "vite": "^7.2.2",
+    "vitest": "^3.2.4"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "name": "ngo-eval-webapp",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "type": "module",
+  "version": "1.1.0"
+}
